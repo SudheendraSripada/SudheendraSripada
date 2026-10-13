@@ -1,6 +1,59 @@
 Hello!🖐 I am Sudheendra Sripada.
 
-<img width="804" height="572" alt="Screenshot 2026-10-13 5 12 50 PM" src="https://github.com/user-attachments/assets/3559f948-3830-4d4a-ba26-0758578f8707" />
+<img width="1500" height="440" alt="download" src="https://github.com/user-attachments/assets/7ba9480d-be84-40eb-8a16-2d7406b3a1a5" />
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="440" viewBox="0 0 1500 440">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#080d1b"></stop>
+      <stop offset="55%" stop-color="#11142c"></stop>
+      <stop offset="100%" stop-color="#172554"></stop>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#67e8f9"></stop>
+      <stop offset="100%" stop-color="#a78bfa"></stop>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#94a3b8" stroke-opacity=".10"></path>
+    </pattern>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="5" result="blur"></feGaussianBlur>
+      <feMerge><feMergeNode in="blur"></feMergeNode><feMergeNode in="SourceGraphic"></feMergeNode></feMerge>
+    </filter>
+  </defs>
+  <rect width="1500" height="440" rx="24" fill="url(#bg)"></rect>
+  <rect width="1500" height="440" rx="24" fill="url(#grid)"></rect>
+  <g fill="none" stroke="#67e8f9" stroke-opacity=".42" stroke-width="2">
+    <path d="M80 90L170 145L110 230L215 285L160 360"></path>
+    <path d="M1260 70L1345 130L1285 215L1400 275L1340 365"></path>
+    <path d="M1160 370L1220 315L1175 265"></path>
+  </g>
+  <g fill="#67e8f9" filter="url(#glow)">
+    <circle cx="80" cy="90" r="5"></circle><circle cx="170" cy="145" r="6"></circle>
+    <circle cx="110" cy="230" r="5"></circle><circle cx="215" cy="285" r="6"></circle>
+    <circle cx="160" cy="360" r="5"></circle><circle cx="1260" cy="70" r="5"></circle>
+    <circle cx="1345" cy="130" r="6"></circle><circle cx="1285" cy="215" r="5"></circle>
+    <circle cx="1400" cy="275" r="6"></circle><circle cx="1340" cy="365" r="5"></circle>
+  </g>
+  <g font-family="monospace" fill="#a5b4fc" opacity=".65" font-size="19">
+    <text x="275" y="85">class Developer {</text>
+    <text x="1020" y="355">O(log n) · O(n) · O(n²)</text>
+    <text x="310" y="355">while (learning) { build(); }</text>
+  </g>
+  <g text-anchor="middle" font-family="Arial, Helvetica, sans-serif">
+    <text x="750" y="173" font-size="25" letter-spacing="8" fill="#67e8f9">HELLO, WORLD! I'M</text>
+    <text x="750" y="235" font-size="53" font-weight="700" fill="#f8fafc">SUDHEENDRA SRIPADA</text>
+    <rect x="475" y="260" width="550" height="3" rx="2" fill="url(#accent)"></rect>
+    <text x="750" y="310" font-size="25" letter-spacing="3" fill="#c4b5fd">JAVA  •  DSA  •  SOFTWARE ENGINEERING</text>
+  </g>
+  <g fill="#e2e8f0" opacity=".7">
+    <circle cx="390" cy="120" r="2"></circle><circle cx="1090" cy="105" r="3"></circle>
+    <circle cx="1160" cy="175" r="2"></circle><circle cx="340" cy="290" r="3"></circle>
+    <circle cx="1050" cy="395" r="2"></circle><circle cx="440" cy="390" r="2"></circle>
+  </g>
+  <path d="M30 30H1470V410H30Z" fill="none" stroke="#a5b4fc" stroke-opacity=".25" rx="20"></path>
+</svg>
+
 
 
 <!--
