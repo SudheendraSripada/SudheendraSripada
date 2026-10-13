@@ -26,7 +26,7 @@ Hello!🖐 I am Sudheendra Sripada.
 
 ## 👋 Hello, World! I'm Sudheendra Sripada
 
-I'm a first-year **Computer Science and Engineering student** passionate about programming, problem-solving, and building useful software.
+I'm a Second-year **Computer Science and Engineering student** passionate about programming, problem-solving, and building useful software.
 
 I'm currently focusing on strengthening my computer science fundamentals while exploring full-stack development, AI, and systems engineering.
 
